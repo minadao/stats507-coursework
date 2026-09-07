@@ -1,2 +1,2 @@
-# stats507-coursework
-Repository for STATS 507
+# Data Science and Analytics using Python
+Repository for STATS 507 Lecture Code and Homework
